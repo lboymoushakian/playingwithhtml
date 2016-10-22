@@ -1,0 +1,67 @@
+#header{
+	font-size:20px;
+	text-align:center;
+	color: red;
+	background-color:black;
+	
+}
+#navbar{
+	background-color:black;
+	padding:10px;
+	text-align:right;
+}
+#navbar a{
+	color:red;
+}
+
+h1{
+	margin:0px;
+	padding-bottom:10px;
+}
+
+#prof-pic {
+	border-radius:50%;
+	width:225px;
+	height:300px;
+}
+
+#kevin{
+
+	border-radius:100%;
+	width:300px;
+	height:300px;
+}
+
+.column{
+	width:50%;
+	text-align:left;
+	border-bottom: 1px solid black;
+	margin:0 auto;
+}
+
+.logo{
+	width:50px;
+	height:50px;
+}
+
+body{
+	margin:0px;
+}
+
+#interests p{
+	font-weight:bold;
+	color: red;
+}
+
+.cs{
+	color:red;
+}
+
+.physics{
+	color:blue;
+}
+
+#footer{
+	text-align:center;
+	margin:20px;
+}
